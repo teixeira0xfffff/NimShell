@@ -16,8 +16,6 @@ nim c -d:mingw revshell.nim
   <img src="https://i.imgur.com/6K1KN48.png">
 </p>
 
-
-sudo ncat -lvp 2121
 #### Lab setup
 ```bash
 sudo ncat -lvp 2121
